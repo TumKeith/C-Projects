@@ -1,5 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
+//TUM KEITH KIMUTAI
+//ENE212-0092/2021
+//CHECK WHETHER THE NUMBER IS A PALINDROME
 
 int main()
 {
