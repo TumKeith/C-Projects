@@ -1,3 +1,6 @@
+//TUM KEITH KIMUTAI
+//ENE212-0092/2021
+
 #include <stdio.h>
 
 int main() {
