@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 //TUM KEITH KIMUTAI
-//ENE212-0092/2-2021
+//ENE212-0092/2021
 
 int main()
 {  
