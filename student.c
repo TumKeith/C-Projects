@@ -1,3 +1,6 @@
+//TUM KEITH KIMUTAI
+//ENE212-0080/2021
+
 #include <stdio.h>
 #include <stdlib.h>
 struct student {
